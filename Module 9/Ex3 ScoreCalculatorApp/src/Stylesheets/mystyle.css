@@ -1,0 +1,13 @@
+.box {
+    border: 2px solid black;
+    width: 400px;
+    padding: 20px;
+    margin: 30px auto;
+    text-align: center;
+    background-color: lightblue;
+    border-radius: 10px;
+}
+
+h2 {
+    color: darkblue;
+}
